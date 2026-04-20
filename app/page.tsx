@@ -17,9 +17,9 @@ export default function Home() {
         className="max-w-lg"
       >
         <AccordionItem value="shipping">
-          <AccordionTrigger>Elisa</AccordionTrigger>
+          <AccordionTrigger>TEste</AccordionTrigger>
           <AccordionContent>
-            Elisa eh uma menina mto doida, sabe desenhar e gosta de matematica.
+            bla bla bla
           </AccordionContent>
         </AccordionItem>
         <AccordionItem value="returns">
