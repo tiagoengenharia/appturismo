@@ -19,7 +19,7 @@ export default function Home() {
         <AccordionItem value="shipping">
           <AccordionTrigger>TEste</AccordionTrigger>
           <AccordionContent>
-            bla bla bla
+            bla bla bla bla bla
           </AccordionContent>
         </AccordionItem>
         <AccordionItem value="returns">
